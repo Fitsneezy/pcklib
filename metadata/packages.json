@@ -1,0 +1,10 @@
+{
+  "packages": [
+    {
+      "name": "updater",
+      "version": "1.0.0",
+      "description": "Updater for ByteVault",
+      "download_url": "https://github.com/Fitsneezy/pcklib/raw/main/packages/updater.zip"
+    }
+  ]
+}
